@@ -1,0 +1,72 @@
+@font-face {
+  font-family: "Kazimir-Bold";
+  font-style: normal;
+  font-weight: 700;
+  src: url("../fonts/Kazimir-Web-Bold.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Mediator Serif Web Narrow-Regular";
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/MediatorSerifWeb-Narrow.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Kazimir-BoldItalic";
+  font-style: italic;
+  font-weight: 700;
+  src: url("../fonts/Kazimir-Web-BoldItalic.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Mediator Serif Web Narrow-Bold";
+  font-style: normal;
+  font-weight: 700;
+  src: url("../fonts/MediatorSerifWebNarrow-Bold.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Kazimir-Medium";
+  font-style: normal;
+  font-weight: 500;
+  src: url("../fonts/Kazimir-Web-Medium.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Kazimir-BlackItalic";
+  font-style: italic;
+  font-weight: 900;
+  src: url("../fonts/Kazimir-Web-BlackItalic.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Kazimir-Light";
+  font-style: normal;
+  font-weight: 300;
+  src: url("../fonts/Kazimir-Web-Light.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Kazimir-LightItalic";
+  font-style: italic;
+  font-weight: 300;
+  src: url("../fonts/Kazimir-Web-LightItalic.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Kazimir-Regular";
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/Kazimir-Web-Regular.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Kazimir-Italic";
+  font-style: italic;
+  font-weight: 400;
+  src: url("../fonts/Kazimir-Web-RegularItalic.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Kazimir-MediumItalic";
+  font-style: italic;
+  font-weight: 500;
+  src: url("../fonts/Kazimir-Web-MediumItalic.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Kazimir-Black";
+  font-style: normal;
+  font-weight: 900;
+  src: url("../fonts/Kazimir-Web-Black.ttf") format("truetype");
+}
